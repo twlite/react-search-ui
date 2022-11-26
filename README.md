@@ -1,3 +1,3 @@
 # Search UI
 
-![image](https://user-images.githubusercontent.com/46562212/204078435-6b51924b-e616-41f5-8fcf-811505ed3158.png)
+![image](https://user-images.githubusercontent.com/46562212/204078693-14abe5d6-8be3-4333-a675-ab109bd777ca.png)
