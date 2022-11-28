@@ -10,7 +10,7 @@ const ChipList = [
 export default function App() {
     return (
         <main className="bg-darkest h-screen grid place-items-center">
-            <div className="bg-dark-blue rounded-xl p-5 w-[43%]">
+            <div className="bg-dark-blue rounded-xl p-5 w-[60%]">
                 <div className="bg-dark text-blue rounded-xl p-10 w-full">
                     <p className="text-sm">All recipes/Vegetarian</p>
                     <p className="text-5xl mt-3 mb-5">All recipes/Vegetarian</p>
